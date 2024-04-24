@@ -1,16 +1,11 @@
 # starligh_kost
 
-A new Flutter project.
+Aplikasi mobile untuk mempertemuakan penyedia kos dengan pencari kos pada 1 aplikasi.
 
-## Getting Started
+## Sistem Informasi Manajemen Kost Berbasis Mobile
+Nama aplikasi : Starligt Kost
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Jelitia pletiyana / 19220949 / 
+Reva sabila / 19220675 /  
+Vanisha aulia / 19220915 / 
+Okta viktorina tri ponia / 19220606 / 
